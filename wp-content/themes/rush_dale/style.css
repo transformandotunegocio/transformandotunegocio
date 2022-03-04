@@ -1,0 +1,13 @@
+/*
+Theme Name: Rush
+Theme URL: Rush.com
+Description: Rush
+Version: 0.1
+Author: Andy Moreno.
+Author URL: 
+*/
+@media only screen and (max-width: 480px){
+    html {
+        margin-top: 0 !important;
+    }
+}

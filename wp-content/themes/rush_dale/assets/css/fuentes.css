@@ -1,0 +1,51 @@
+
+/*=====================Fuentes Iniform=======================*/
+@font-face {
+  font-family: 'GM';
+  src:  url('../fonts/GM.woff2') format("woff2"),
+        url('../fonts/GM.woff') format("woff");
+}
+
+@font-face {
+  font-family: 'Thunder-LightLCItalic300';
+  src:  url('../fonts/Thunder-LightLCItalic300.woff2') format("woff2"),
+        url('../fonts/Thunder-LightLCItalic300.woff') format("woff");
+}
+@font-face {
+  font-family: 'Thunder-LightLCItalic300';
+  src:  url('../fonts/Thunder-LightLCItalic300.woff2') format("woff2"),
+        url('../fonts/Thunder-LightLCItalic300.woff') format("woff");
+}
+@font-face {
+  font-family: 'Thunder-BoldLCItalic700';
+  src:  url('../fonts/Thunder-BoldLCItalic700.woff2') format("woff2"),
+        url('../fonts/Thunder-BoldLCItalic700.woff') format("woff");
+}
+@font-face {
+  font-family: 'Thunder-SemiBoldLCItalic600';
+  src:  url('../fonts/Thunder-SemiBoldLCItalic600.woff2') format("woff2"),
+        url('../fonts/Thunder-SemiBoldLCItalic600.woff') format("woff");
+}
+@font-face {
+  font-family: 'Thunder-MediumLCItalic500';
+  src:  url('../fonts/Thunder-MediumLCItalic500.woff2') format("woff2"),
+        url('../fonts/Thunder-MediumLCItalic500.woff') format("woff");
+}
+/*
+@font-face {
+  font-family: 'Uniform';
+  font-weight: bold;
+  src:  url('../fonts/UniformRndExCond-Bold.woff2') format("woff2"),
+        url('../fonts/UniformRndExCond-Bold.woff') format("woff"),
+        url('../fonts/UniformRndExCond-Bold.ttf') format("truetype"),
+        url('../fonts/UniformRndExCond-Bold.eot?#iefix') format('eot');
+}
+@font-face {
+  font-family: 'Uniform';
+  font-weight: 500;
+  src:  url('../fonts/UniformRndExCond-Medium.woff2') format("woff2"),
+        url('../fonts/UniformRndExCond-Medium.woff') format("woff"),
+        url('../fonts/UniformRndExCond-Medium.ttf') format("truetype"),
+        url('../fonts/UniformRndExCond-Medium.eot?#iefix') format('eot');
+  
+}*/

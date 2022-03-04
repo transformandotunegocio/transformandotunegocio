@@ -1,0 +1,220 @@
+/*
+ ==============================================
+ Responsive Style (max-width : 1800px)
+ ==============================================
+*/
+@media only screen and (max-width: 1800px) {
+
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 1600px)
+ ==============================================
+*/
+
+@media only screen and (max-width: 1600px) {
+ 
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 1400px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1450px) {
+    
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 1400px)
+ ==============================================
+ */
+
+@media only screen and (max-height: 876px) {
+    
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 1300px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1300px) {
+
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 1200px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 940px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 1050px) {
+   
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 890px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 950px) {
+  
+}
+
+
+/*
+ ==============================================
+ Responsive Style (max-width : 820px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 820px) {
+    
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 768px)
+ ==============================================
+ */
+
+@media screen and (max-width: 768px) {
+  
+}
+
+/*
+ ==============================================
+ Responsive Style (max-width : 568px)
+ ==============================================
+ */
+
+@media screen and (max-width: 568px) {
+
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 480px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 480px) {
+    .main_section_manes h3{
+        font-size: 30px; 
+    }
+    .button_buy{
+        bottom: 0;
+    }
+    .button_buy a{
+        font-size: 18px;
+    }
+    .header_logo img {
+        width: 150px;
+    }
+    .header_tools img{
+        width: 40px;
+    }
+    .main_section_faqs h3{
+      font-size: 30px;  
+    }
+    .header_menu svg{
+        width: 40px !important;
+        height: 40px !important;
+    }
+    .main_section_1{
+        flex-wrap: wrap;
+    }
+    .services img{
+        width: 100%;
+        height: 300px;
+    }
+    .services{
+        margin-bottom: 30px;
+        width: 100%;
+    }
+    .main_section_dj{
+        padding: 20px;
+    }
+    .main_section_dj a{
+        width: 100%;
+    }
+    .main_section_dj img, .footer_content_logo{
+        width: 100%;
+    }
+    .footer_content{
+        flex-wrap: wrap;
+    }
+    .main_section_faqs{
+        padding: 60px 30px;
+    }
+    .faqs_item, .footer_content_redes{
+        width: 100%;
+    }
+    .product{
+        flex-wrap: wrap;
+    }
+    .content_carrito{
+        max-width: 100%;
+        width: 100%;
+    }
+    .coupon .button, #customer_details, #order_review{
+        width: 100% !important;
+    }
+    #coupon_code{
+        width: 100%;
+    }
+    .footer_content_logo{
+        padding: 20px;
+    }
+    #kinky{
+        max-width: 100%;
+        width: 100%;
+    }
+    .popup_cover .popup_txt{
+        max-width: 80%;
+        width: 100%;
+    }
+    .nav_menu{
+        top: 64px;
+    }
+    .nav_menu.openMenu{
+        width: 80%;
+    }
+    .nav_menu a{
+        font-size: 20px;
+    }
+    .services h1{
+        font-size: 30px;
+    }
+    .date_services, .price_services, .main_section_divider p{
+        font-size: 25px;
+    }
+    .main_section_divider p{
+        font-size: 17px;    
+    }
+    .main_section_divider{
+        padding: 20px;
+    }
+    .price_services{
+        margin-top: 10px;
+    }
+}
+/*
+ ==============================================
+ Responsive Style (max-width : 380px)
+ ==============================================
+ */
+
+@media only screen and (max-width: 380px) {}
