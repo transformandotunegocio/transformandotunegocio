@@ -17,8 +17,8 @@ get_header();
   <main class="main">
       <div class="main_content">
         <div class="main_content_video">
-          <video id="videoHome" onended="videoEnded(this)">
-            <source src="<?=IMGURL?>home_n.mp4" type="video/mp4">
+          <video id="videoHome" onended="videoEnded(this)" poster="banner-1.jpg">
+            <source src="<?=IMGURL?>home.mp4" type="video/mp4" >
           </video>
           <div class="button_play">
             <img src="<?=IMGURL?>playbutton.png" alt="">
@@ -28,7 +28,7 @@ get_header();
           </div>
         </div>
         <div class="main_section_1">
-          <img src="<?=IMGURL?>leales.png" alt="">
+          <img src="<?=IMGURL?>banner-2-RUSH.jpg" alt="">
         </div>
         <div id="boleteria" class="main_section_services">
          
@@ -86,8 +86,8 @@ get_header();
         </div>
         <div id="djs" class="main_section_dj" style="width: 100%; display:flex;justify-content:center">
           <a href="https://open.spotify.com/playlist/2Ip9yHnApsTdequbPJ2GsU?si=Y3BDtyh5S-SFu50hVwF14g&utm_source=whatsapp&dl_branch=1" target="_blank"><img src="<?=IMGURL?>dj1.png" alt=""></a>
-          
         </div>
+
         <div id="dresscode" class="main_section_manes">
           <h3>FIRE UP YOUR <span>DRESSCODE</span></h3>
           <div class="container_modelos">
@@ -151,8 +151,11 @@ get_header();
         <div class="main_section_logos" style="display: #000;">
           <img src="<?=IMGURL?>logo_dale_white.png" style="width:300px;display:block;margin:40px auto 80px auto" alt="">
         </div>
-        <div class="main_section_divider" style="display: none;">
-          <p>SPONSORS</p>
+        <div class="main_section_divider">
+          <p>SPONSORS:</p>
+        </div>
+        <div class="main_section_logos" style="display: #000;">
+          <img src="<?=IMGURL?>sponsors-en-negro.jpg" style="width:500px;display:block;margin:40px auto 80px auto" alt="">
         </div>
         <div class="main_section_logos" style="display: none;">
           <div class="slider_logos">
