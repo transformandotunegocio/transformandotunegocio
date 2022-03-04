@@ -24,7 +24,7 @@ get_header();
             <img src="<?=IMGURL?>playbutton.png" alt="">
           </div>
           <div class="button_buy">
-            <a href="#boleteria">Comprar.</a>
+            <a href="#boleteria">Comprar!!</a>
           </div>
         </div>
         <div class="main_section_1">
@@ -157,7 +157,7 @@ get_header();
           <p>SPONSORS:</p>
         </div>
         <div class="main_section_logos" style="display: #000;">
-          <img src="<?=IMGURL?>sponsors-en-negro.jpg" style="width:500px;display:block;margin:40px auto 80px auto" alt="">
+          <img src="<?=IMGURL?>sponsors-en-negro.jpg" style="width:300px;display:block;margin:40px auto 80px auto" alt="">
         </div>
         <div class="main_section_logos" style="display: none;">
           <div class="slider_logos">
