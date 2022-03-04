@@ -24,7 +24,7 @@ get_header();
             <img src="<?=IMGURL?>playbutton.png" alt="">
           </div>
           <div class="button_buy">
-            <a href="#boleteria">Comprar</a>
+            <a href="#boleteria">Comprar.</a>
           </div>
         </div>
         <div class="main_section_1">
@@ -87,6 +87,8 @@ get_header();
         <div id="djs" class="main_section_dj" style="width: 100%; display:flex;justify-content:center">
           <a href="https://open.spotify.com/playlist/2Ip9yHnApsTdequbPJ2GsU?si=Y3BDtyh5S-SFu50hVwF14g&utm_source=whatsapp&dl_branch=1" target="_blank"><img src="<?=IMGURL?>dj1.png" alt=""></a>
         </div>
+
+        <img src="<?=IMGURL?>dj2.jpg" alt="">
 
         <div id="dresscode" class="main_section_manes">
           <h3>FIRE UP YOUR <span>DRESSCODE</span></h3>
